@@ -1,0 +1,32 @@
+a {
+    background-color: gray;
+    text-decoration: none;
+
+}
+
+span {
+    background-color: rgb(139, 170, 175);
+}
+
+
+
+/* - Still, in the internal CSS, use ID selectors to style a specific element (perhaps a unique message or a headline). */
+#unique {
+    color: blue;
+}
+/* in your external CSS, try overriding one of the anchor tag styles you set earlier using the !important declaration. */
+#My_Important{
+    background-color: red !important;
+}
+
+
+/* Style this button using properties like color, background-color, font-style, font-family, and font-weight. */
+.youtube {
+    color: white;
+    background-color: red;
+    font-style: oblique;
+    font-family: monospace;
+    font-weight: bold;
+    text-decoration: none;
+
+}
