@@ -9,18 +9,11 @@
     margin: 100px;
 }
 
-a {
-    
-}
-
 span {
     background-color: rgb(139, 170, 175);
 }
 
 
-
-
-}
 /* in your external CSS, try overriding one of the anchor tag styles you set earlier using the !important declaration. */
 #My_Important{
     background-color: lightskyblue !important;
@@ -28,16 +21,4 @@ span {
 
 #My_Important {
     background-color: blanchedalmond;
-}
-
-
-/* Style this button using properties like color, background-color, font-style, font-family, and font-weight. */
- {
-    color: white;
-    background-color: red;
-    font-style: oblique;
-    font-family: monospace;
-    font-weight: bold;
-    text-decoration: none;
-
 }
